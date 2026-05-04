@@ -197,6 +197,7 @@ Users can remove employee records, which deletes them from both the API and UI.
 
 ## 📦 Deployment
 This app will be hosted live on github pages.
+The link for the website: https://bharathy2302.github.io/web_programming_assignment2/
 
 ### Pre-Deployment Checklist
 
